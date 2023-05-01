@@ -1,4 +1,4 @@
-В программе два основных файла DZ3.java и quantityExceptioт.java (собственное исключение).
+В папке Exception_DZ3 два основных файла DZ3.java и quantityExceptioт.java (собственное исключение).
 Запускается все из DZ3.java
 
 
